@@ -58,4 +58,3 @@ while True:
         library.borrow_book()
     else:
         print("Invalid choice. Please try again.")
-    print(borrowed_books)
